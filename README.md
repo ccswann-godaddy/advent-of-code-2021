@@ -9,7 +9,7 @@ I will be doing my solutions primarily in Python 🐍
 
 ## Overview
 
-| Day                                       | Name        | Python | 
+| Day                                       | Name        | Stars | 
 | ----------------------------------------- | ----------- | ------ | 
 | [01](https://adventofcode.com/2021/day/1) | Sonar Sweep |    | 
 
