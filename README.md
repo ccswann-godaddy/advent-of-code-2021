@@ -5,7 +5,7 @@
 
 [Advent of Code](http://adventofcode.com/) is an annual Advent calendar of programming puzzles.
 
-I will be doing my solutions primarily in Python 🐍
+I will be doing my solutions primarily in Python 🐍 (my try a little C too :P).
 
 ## Overview
 
