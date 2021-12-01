@@ -12,7 +12,7 @@ The day number links to the original problem at the Advent of Code site. The nam
 
 | Day                                       | Name        | Stars | 
 | ----------------------------------------- | ----------- | ------ | 
-| [01](https://adventofcode.com/2021/day/1) | Sonar Sweep |  ⭐  | 
+| [01](https://adventofcode.com/2021/day/1) | Sonar Sweep |  ⭐⭐  | 
 
 <!--
         | [02](https://adventofcode.com/2021/day/2) |     | ⭐⭐ |
