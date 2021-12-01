@@ -8,6 +8,7 @@
 I will be doing this primarily in Python 🐍 (may try a little C too :P).
 
 ## Overview
+The day number links to the original problem at the Advent of Code site. The name links to my solution file.
 
 | Day                                       | Name        | Stars | 
 | ----------------------------------------- | ----------- | ------ | 
