@@ -10,7 +10,7 @@ I will be doing this primarily in Python 🐍 (may try a little C too :P).
 ## Overview
 The day number links to the original problem at the Advent of Code site. 
 
-| Day                                       | Name        | Stars | Python | C  |
+| Day                                       | Name        | Stars Earned | Python | C  |
 | ----------------------------------------- | ----------- | ------ |------ | ----|
 | [01](https://adventofcode.com/2021/day/1) | Sonar Sweep |  ⭐⭐  | | |
 
