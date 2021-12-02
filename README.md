@@ -5,10 +5,10 @@
 
 [Advent of Code](http://adventofcode.com/) is an annual Advent calendar of programming puzzles.
 
-I will be doing this primarily in Python 🐍 (may try a little C too :P).
+![tis100-sad](https://user-images.githubusercontent.com/17733481/144336191-e84578d7-86bd-48ee-86c8-db5746670378.gif) \
+I will be doing this primarily in Python 🐍 (may try a little C too).
 
 ## Overview
-The day number links to the original problem at the Advent of Code site. 
 
 | Day                                       | Name        | Stars Earned | Python | C  |
 | ----------------------------------------- | ----------- | ------ |------ | ----|
