@@ -12,7 +12,7 @@ I will be doing this primarily in Python 🐍 (may try a little C too).
 
 | Day                                       | Name        | Stars Earned | Python | C  |
 | ----------------------------------------- | ----------- | ------ |------ | ----|
-| [01](https://adventofcode.com/2021/day/1) | Sonar Sweep |  ⭐⭐  | | |
+| [01](https://adventofcode.com/2021/day/1) | Sonar Sweep |  ⭐⭐  | code | |
 
 <!--
         | [02](https://adventofcode.com/2021/day/2) |     | ⭐⭐ |
