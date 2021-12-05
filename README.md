@@ -13,12 +13,14 @@ I will be doing this primarily in Python 🐍 (may try a little C too).
 | Day                                       | Name        | Stars Earned | Python | C  |
 | ----------------------------------------- | ----------- | ------ |------ | ----|
 | [01](https://adventofcode.com/2021/day/1) | Sonar Sweep |  ⭐⭐  | | |
+| [02](https://adventofcode.com/2021/day/2) | Dive!    | ⭐⭐ |
+| [03](https://adventofcode.com/2021/day/3)  | Binary Diagnostic   | ⭐⭐   | | |                                    
+| [04](https://adventofcode.com/2021/day/4)  | Giant Squid     | ⭐⭐   | | |                                     
+| [05](https://adventofcode.com/2021/day/5)  | Hydrothermal Venture   | ⭐     | | |   
+
 
 <!--
-        | [02](https://adventofcode.com/2021/day/2) |     | ⭐⭐ |
-| [03](https://adventofcode.com/2021/day/3)  |             | ⭐⭐                                        |
-| [04](https://adventofcode.com/2021/day/4)  |             | ⭐⭐                                        |
-| [05](https://adventofcode.com/2021/day/5)  |             | ⭐⭐                                        |
+
 | [06](https://adventofcode.com/2021/day/6)  |             | ⭐⭐                                        |
 | [07](https://adventofcode.com/2021/day/7)  |             | ⭐⭐                                        |
 | [08](https://adventofcode.com/2021/day/8)  |             | ⭐⭐                                        |
